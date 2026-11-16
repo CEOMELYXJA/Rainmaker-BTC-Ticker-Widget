@@ -14,7 +14,7 @@ The skin uses Windows PowerShell to fetch prices and draw the graph. Its command
 
 ## Browser version
 
-Open `index.html` in a modern browser, or use the GitHub Pages site if it has been enabled for this repository. Rainmeter is not required for the browser version. An internet connection is needed for prices. Browser storage must be enabled for history to persist; clearing site data removes it. Private browsing may discard history when closed. A browser may pause or delay updates in background tabs or while the device sleeps.
+Open the [live browser widget](https://ceomelyxja.github.io/Rainmaker-BTC-Ticker-Widget/) or open `index.html` in a modern browser. Rainmeter is not required for the browser version. An internet connection is needed for prices. Browser storage must be enabled for history to persist; clearing site data removes it. Private browsing may discard history when closed. A browser may pause or delay updates in background tabs or while the device sleeps.
 
 ## How it works
 
