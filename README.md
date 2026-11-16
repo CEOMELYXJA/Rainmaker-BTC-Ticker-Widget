@@ -27,4 +27,3 @@ Open `index.html` in a modern browser, or use the GitHub Pages site if it has be
 
 The original skin metadata credits **poiru** for the base and specifies **Creative Commons Attribution-NonCommercial-ShareAlike 3.0**. The skin layout and bundled illustro background retain that attribution and license. See [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) for its terms. The project is shared under those same terms; attribution must be preserved, commercial use is not permitted, and adaptations must be shared alike.
 
-
